@@ -1,4 +1,7 @@
-# Exploring Embodied Multimodal Large Models: Development, Datasets, and Future Directions
+<p align="center">
+<img src="./title.png" width="800">
+</p>  
+
 [![arXiv](https://img.shields.io/badge/arXiv-2502.15336-orange)](https://arxiv.org/abs/2502.15336)
 [![](https://img.shields.io/badge/Project-%F0%9F%9A%80-pink)](https://github.com/BurryChen/Embodied-Multimodal-Large-Models)
 ## Paper list
