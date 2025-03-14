@@ -32,64 +32,63 @@ todo:
 11. Y. Liu,     W. Chen,     Y. Bai,     X. Liang,     G. Li,     W. Gao,     L. Lin, Aligning cyber space with physical world: A comprehensive survey on embodied ai, arXiv preprint arXiv:2407.06886 (2024).\
 [[paper](https://arxiv.org/abs/2407.06886)]
 12. N. Roy,     I. Posner,     T. Barfoot,     P. Beaudoin,     Y. Bengio,     J. Bohg,     O. Brock,     I. Depatie,     D. Fox,     D. Koditschek, et al., From machine learning to robotics: Challenges and opportunities for embodied intelligence, arXiv preprint arXiv:2110.15245 (2021).\
-[[paper]()]
+[[paper](https://arxiv.org/abs/2110.15245)]
 13. R. Firoozi,     J. Tucker,     S. Tian,     A. Majumdar,     J. Sun,     W. Liu,     Y. Zhu,     S. Song,     A. Kapoor,     K. Hausman, et al., Foundation models in robotics: Applications, challenges, and the future, The International Journal of Robotics Research (2023) 02783649241281508.\
-[[paper]()]
+[[paper](https://journals.sagepub.com/doi/abs/10.1177/02783649241281508)]
 14. J. Duan,     S. Yu,     H.     L. Tan,     H. Zhu,     C. Tan, A survey of embodied ai: From simulators to research tasks, IEEE Transactions on Emerging Topics in Computational Intelligence 6 (2) (2022) 230-244.\
-[[paper]()]
+[[paper](https://ieeexplore.ieee.org/abstract/document/9687596/)]
 15. Z. Xi,     W. Chen,     X. Guo,     W. He,     Y. Ding,     B. Hong,     M. Zhang,     J. Wang,     S. Jin,     E. Zhou, et al., The rise and potential of large language model based agents: A survey, arXiv preprint arXiv:2309.07864 (2023).\
-[[paper]()]
+[[paper](https://link.springer.com/article/10.1007/s11432-024-4222-0)]
 16. Y. Ma,     Z. Song,     Y. Zhuang,     J. Hao,     I. King, A survey on vision-language-action models for embodied ai, arXiv preprint arXiv:2405.14093 (2024).\
-[[paper]()]
+[[paper](https://arxiv.org/abs/2405.14093)]
 17. S. Haddadin,     S. Parusel,     L. Johannsmeier,     S. Golz,     S. Gabl,     F. Walch,     M. Sabaghian,     C. Jähne,     L. Hausperger,     S. Haddadin, The franka emika robot: A reference platform for robotics research and education, IEEE Robotics & Automation Magazine 29 (2) (2022) 46-64.\
-[[paper]()]
+[[paper](https://ieeexplore.ieee.org/abstract/document/9721535/)]
 18. C. Cui,     Y. Ma,     X. Cao,     W. Ye,     Y. Zhou,     K. Liang,     J. Chen,     J. Lu,     Z. Yang,     K.-D. Liao, et al., A survey on multimodal large language models for autonomous driving, in: Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision, 2024, pp. 958- 979.\
-[[paper]()]
+[[paper](https://openaccess.thecvf.com/content/WACV2024W/LLVM-AD/html/Cui_A_Survey_on_Multimodal_Large_Language_Models_for_Autonomous_Driving_WACVW_2024_paper.html)]
 19. A. Hubble,     J. Moorin,     A.     S. Khuman, Artificial intelligence in fps games: Npc difficulty effects on gameplay, in: Fuzzy Logic: Recent Applications and Developments, Springer, 2021, pp. 165-190.\
-[[paper]()]
+[[paper](https://link.springer.com/chapter/10.1007/978-3-030-66474-9_11)]
 20. J.     S. Park,     J. O’Brien,     C.     J. Cai,     M.     R. Morris,     P. Liang,     M.     S. Bernstein, Generative agents: Interactive simulacra of human behavior, in: Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology, 2023, pp. 1-22.\
-[[paper]()]
+[[paper](https://dl.acm.org/doi/abs/10.1145/3586183.3606763)]
 21. R. Kong,     Z. Qi,     S. Zhao, Difference between virtual idols and traditional entertainment from technical perspectives, in: 2021 3rd International Conference on economic Management and cultural industry (ICEMCI 2021), Atlantis Press, 2021, pp. 344-349.\
-[[paper]()]
+[[paper](https://www.atlantis-press.com/proceedings/icemci-21/125966274)]
 22. J. Achiam,     S. Adler,     S. Agarwal,     L. Ahmad,     I. Akkaya,     F.     L. Aleman,     D. Almeida,     J. Altenschmidt,     S. Altman,     S. Anadkat, et al., Gpt-4 technical report, arXiv preprint arXiv:2303.08774 (2023).\
-[[paper]()]
+[[paper](https://arxiv.org/abs/2303.08774)]
 23. J. Devlin, Bert: Pre-training of deep bidirectional transformers for language understanding, arXiv preprint arXiv:1810.04805 (2018).\
-[[paper]()]
+[[paper](https://arxiv.org/abs/1810.04805)]
 24. C. Raffel,     N. Shazeer,     A. Roberts,     K. Lee,     S. Narang,     M. Matena,     Y. Zhou,     W. Li,     P.     J. Liu, Exploring the limits of transfer learning with a unified text-to-text transformer, Journal of Machine Learning Research 21 (140) (2020) 1-67.\
-[[paper]()]
-URL http://jmlr.org/papers/v21/20-074.html
+[[paper](http://jmlr.org/papers/v21/20-074.html)]
 25. A. Radford, Improving language understanding by generative pretraining (2018).\
-[[paper]()]
+[[paper](https://www.mikecaptain.com/resources/pdf/GPT-1.pdf)]
 26. Z. Yang, Xlnet: Generalized autoregressive pretraining for language understanding, arXiv preprint arXiv:1906.08237 (2019).\
-[[paper]()]
+[[paper](https://arxiv.org/abs/1906.08237)]
 27. T.     B. Brown, Language models are few-shot learners, arXiv preprint arXiv:2005.14165 (2020).\
-[[paper]()]
+[[paper](https://arxiv.org/abs/2005.14165)]
 28. A. Liu,     B. Feng,     B. Xue,     B. Wang,     B. Wu,     C. Lu,     C. Zhao,     C. Deng,     C. Zhang,     C. Ruan, et al., Deepseek-v3 technical report, arXiv preprint arXiv:2412.19437 (2024).\
-[[paper]()]
+[[paper](https://arxiv.org/abs/2005.14165)]
 29. H. Touvron,     T. Lavril,     G. Izacard,     X. Martinet,     M.-A. Lachaux,     T. Lacroix,     B. Rozière,     N. Goyal,     E. Hambro,     F. Azhar, et al., Llama: Open and efficient foundation language models, arXiv preprint arXiv:2302.13971 (2023).\
-[[paper]()]
+[[paper](https://arxiv.org/abs/2302.13971)]
 30. H. Touvron,     L. Martin,     K. Stone,     P. Albert,     A. Almahairi,     Y. Babaei,     N. Bashlykov,     S. Batra,     P. Bhargava,     S. Bhosale, et al., Llama 2: Open foundation and fine-tuned chat models, arXiv preprint arXiv:2307.09288 (2023).\
-[[paper]()]
+[[paper](https://arxiv.org/abs/2307.09288)]
 31. K. He,     X. Zhang,     S. Ren,     J. Sun, Deep residual learning for image recognition, in: Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 2016, pp. 770-778.\
-[[paper]()]
+[[paper](http://openaccess.thecvf.com/content_cvpr_2016/html/He_Deep_Residual_Learning_CVPR_2016_paper.html)]
 32. A. Dosovitskiy, An image is worth 16x16 words: Transformers for image recognition at scale, arXiv preprint arXiv:2010.11929 (2020).\
-[[paper]()]
+[[paper](https://arxiv.org/abs/2010.11929)]
 33. Z. Liu,     Y. Lin,     Y. Cao,     H. Hu,     Y. Wei,     Z. Zhang,     S. Lin,     B. Guo, Swin transformer: Hierarchical vision transformer using shifted windows, in: Proceedings of the IEEE/CVF International Conference on Computer Vision, 2021, pp. 10012-10022.\
-[[paper]()]
+[[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Liu_Swin_Transformer_Hierarchical_Vision_Transformer_Using_Shifted_Windows_ICCV_2021_paper)]
 34. A. Kirillov,     E. Mintun,     N. Ravi,     H. Mao,     C. Rolland,     L. Gustafson,     T. Xiao,     S. Whitehead,     A.     C. Berg,     W.-Y. Lo, et al., Segment anything, in: Proceedings of the IEEE/CVF International Conference on Computer Vision, 2023, pp. 4015-4026.\
-[[paper]()]
+[[paper](http://openaccess.thecvf.com/content/ICCV2023/html/Kirillov_Segment_Anything_ICCV_2023_paper.html)]
 35. M. Caron,     H. Touvron,     I. Misra,     H. Jégou,     J. Mairal,     P. Bojanowski,     A. Joulin, Emerging properties in self-supervised vision transformers, in: Proceedings of the IEEE/CVF International Conference on Computer Vision, 2021, pp. 9650-9660.\
-[[paper]()]
+[[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Caron_Emerging_Properties_in_Self-Supervised_Vision_Transformers_ICCV_2021_paper)]
 36. M. Oquab,     T. Darcet,     T. Moutakanni,     H. Vo,     M. Szafraniec,     V. Khali-dov,     P. Fernandez,     D. Haziza,     F. Massa,     A. El-Nouby, et al., Dinov2: Learning robust visual features without supervision, arXiv preprint arXiv:2304.07193 (2023).\
-[[paper]()]
+[[paper](https://arxiv.org/abs/2304.07193)]
 37. A. Radford,     J.     W. Kim,     C. Hallacy,     A. Ramesh,     G. Goh,     S. Agarwal,     G. Sastry,     A. Askell,     P. Mishkin,     J. Clark, et al., Learning transferable visual models from natural language supervision, in: Proceedings of the International Conference on Machine Learning, PMLR, 2021, pp. 8748-8763.\
-[[paper]()]
+[[paper](http://proceedings.mlr.press/v139/radford21a)]
 38. A. Ramesh,     M. Pavlov,     G. Goh,     S. Gray,     C. Voss,     A. Radford,     M. Chen,     I. Sutskever, Zero-shot text-to-image generation, in: Proceedings of the International Conference on Machine Learning, PMLR, 2021, pp. 8821-8831.\
-[[paper]()]
+[[paper](https://proceedings.mlr.press/v139/ramesh21a.html?ref=journey)]
 39. A. Ramesh,     P. Dhariwal,     A. Nichol,     C. Chu,     M. Chen, Hierarchical text-conditional image generation with clip latents, arXiv preprint arXiv:2204.06125 1 (2) (2022) 3.\
-[[paper]()]
+[[paper](https://3dvar.com/Ramesh2022Hierarchical.pdf)]
 40. J. Betker,     G. Goh,     L. Jing,     T. Brooks,     J. Wang,     L. Li,     L. Ouyang,     J. Zhuang,     J. Lee,     Y. Guo, et al., Improving image generation with better captions, Computer Science. https://cdn.openai.com/papers/dall-e-3.pdf 2 (3) (2023) 8.\
-[[paper]()]
+[[paper](https://cdn.openai.com/papers/dall-e-3.pdf)]
 41. J. Li,     D. Li,     C. Xiong,     S. Hoi, Blip: Bootstrapping language-image pre-training for unified vision-language understanding and generation, in: Proceedings of the International Conference on Machine Learning, PMLR, 2022, pp. 12888-12900.\
 [[paper]()]
 42. J.-B. Alayrac,     J. Donahue,     P. Luc,     A. Miech,     I. Barr,     Y. Hasson,     K. Lenc,     A. Mensch,     K. Millican,     M. Reynolds, et al., Flamingo: a visual language model for few-shot learning, Advances in Neural Information Processing Systems 35 (2022) 23716-23736.\
