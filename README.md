@@ -319,6 +319,7 @@ URL https://openreview.net/forum?id=WuBv9-IGDUA
 298.      K. Ehsani,     T. Gupta,     R. Hendrix,     J. Salvador,     L. Weihs,     K.-H. Zeng,     K.     P. Singh,     Y. Kim,     W. Han,     A. Herrasti, et al., Spoc: Imitating shortest paths in simulation enables effective navigation and manipulation in the real world, in: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2024, pp. 16238-16250.
 299.      G. Thomas,     C.-A. Cheng,     R. Loynd,     F.     V. Frujeri,     V. Vineet,     M. Jalobeanu,     A. Kolobov, Plex: Making the most of the available data for robotic manipulation pretraining, in: CoRL, 2023.
 
+
 ## Citation 
 If you think this survey is helpful, please feel free to leave a star and cite our paper:
 
