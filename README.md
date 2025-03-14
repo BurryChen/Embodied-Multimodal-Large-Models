@@ -87,7 +87,7 @@ todo:
 [[paper](https://proceedings.mlr.press/v139/ramesh21a.html?ref=journey)]
 39. A. Ramesh,     P. Dhariwal,     A. Nichol,     C. Chu,     M. Chen, Hierarchical text-conditional image generation with clip latents, arXiv preprint arXiv:2204.06125 1 (2) (2022) 3.\
 [[paper](https://3dvar.com/Ramesh2022Hierarchical.pdf)]
-40. J. Betker,     G. Goh,     L. Jing,     T. Brooks,     J. Wang,     L. Li,     L. Ouyang,     J. Zhuang,     J. Lee,     Y. Guo, et al., Improving image generation with better captions, Computer Science. https://cdn.openai.com/papers/dall-e-3.pdf 2 (3) (2023) 8.\
+40. J. Betker,     G. Goh,     L. Jing,     T. Brooks,     J. Wang,     L. Li,     L. Ouyang,     J. Zhuang,     J. Lee,     Y. Guo, et al., Improving image generation with better captions, Computer Science. (3) (2023).\
 [[paper](https://cdn.openai.com/papers/dall-e-3.pdf)]
 41. J. Li,     D. Li,     C. Xiong,     S. Hoi, Blip: Bootstrapping language-image pre-training for unified vision-language understanding and generation, in: Proceedings of the International Conference on Machine Learning, PMLR, 2022, pp. 12888-12900.\
 [[paper]()]
