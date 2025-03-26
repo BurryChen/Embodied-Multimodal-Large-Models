@@ -146,129 +146,129 @@ todo:
 68. W. Huang,     C. Wang,     Y. Li,     R. Zhang,     L. Fei-Fei, Rekep: Spatiotemporal reasoning of relational keypoint constraints for robotic manipulation, arXiv preprint arXiv:2409.01652 (2024).\
 [[paper](https://arxiv.org/abs/2409.01652)]
 69. R. Islam,     O.     M. Moushi, Gpt-4o: The cutting-edge advancement in multimodal llm, Authorea Preprints (2024).\
-[[paper]()]
+[[paper](https://www.researchgate.net/profile/Raisa_Islam8/publication/381898598_GPT-4o_The_Cutting-Edge_Advancement_in_Multimodal_LLM/links/6684415b2aa57f3b8268acd0/GPT-4o-The-Cutting-Edge-Advancement-in-Multimodal-LLM.pdf?origin=publication_detail&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uRG93bmxvYWQiLCJwcmV2aW91c1BhZ2UiOiJwdWJsaWNhdGlvbiJ9fQ)]
 70. Y. Jin,     D. Li,     A. Yong,     J. Shi,     P. Hao,     F. Sun,     J. Zhang,     B. Fang, Robotgpt: Robot manipulation learning from chatgpt, IEEE Robotics and Automation Letters (2024).\
-[[paper]()]
+[[paper](https://ieeexplore.ieee.org/abstract/document/10412086/)]
 71. W. Huang,     C. Wang,     R. Zhang,     Y. Li,     J. Wu,     L. Fei-Fei, Voxposer: Composable 3d value maps for robotic manipulation with language models, arXiv preprint arXiv:2307.05973 (2023).\
-[[paper](https://arxiv.org/abs/)]
+[[paper](https://arxiv.org/abs/2307.05973)]
 72. F. Xiang,     Y. Qin,     K. Mo,     Y. Xia,     H. Zhu,     F. Liu,     M. Liu,     H. Jiang,     Y. Yuan,     H. Wang, et al., Sapien: A simulated part-based interactive environment, in: Proceedings of the IEEE/CVF conference on computer vision and pattern recognition, 2020, pp. 11097-11107.\
-[[paper]()]
+[[paper](http://openaccess.thecvf.com/content_CVPR_2020/html/Xiang_SAPIEN_A_SimulAted_Part-Based_Interactive_ENvironment_CVPR_2020_paper.html)]
 73. M.     S. Sajjadi,     D. Duckworth,     A. Mahendran,     S. Van Steenkiste,     F. Pavetic,     M. Lucic,     L.     J. Guibas,     K. Greff,     T. Kipf, Object scene representation transformer, Advances in neural information processing systems 35 (2022) 9512-9524.\
-[[paper]()]
+[[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/3dc83fcfa4d13e30070bd4b230c38cfe-Abstract-Conference.html)]
 74. A. Brohan,     N. Brown,     J. Carbajal,     Y. Chebotar,     J. Dabis,     C. Finn,     K. Gopalakrishnan,     K. Hausman,     A. Herzog,     J. Hsu, et al., Rt-1: Robotics transformer for real-world control at scale, arXiv preprint arXiv:2212.06817 (2022).\
-[[paper](https://arxiv.org/abs/)]
+[[paper](https://arxiv.org/abs/2212.06817)]
 75. M. Tan,     Q. Le, Efficientnet: Rethinking model scaling for convolutional neural networks, in: International conference on machine learning, PMLR, 2019, pp. 6105-6114.\
-[[paper]()]
+[[paper](http://proceedings.mlr.press/v97/tan19a.html?ref=jina-ai-gmbh.ghost.io)]
 76. A. Brohan,     N. Brown,     J. Carbajal,     Y. Chebotar,     X. Chen,     K. Choro-manski,     T. Ding,     D. Driess,     A. Dubey,     C. Finn, et al., Rt-2: Vision-language-action models transfer web knowledge to robotic control, arXiv preprint arXiv:2307.15818 (2023).\
-[[paper](https://arxiv.org/abs/)]
+[[paper](https://arxiv.org/abs/2307.15818)]
 77. S. Belkhale,     T. Ding,     T. Xiao,     P. Sermanet,     Q. Vuong,     J. Tompson,     Y. Chebotar,     D. Dwibedi,     D. Sadigh, Rt-h: Action hierarchies using language, arXiv preprint arXiv:2403.01823 (2024).\
-[[paper](https://arxiv.org/abs/)]
+[[paper](https://arxiv.org/abs/2403.01823)]
 78. X. Chen,     J. Djolonga,     P. Padlewski,     B. Mustafa,     S. Changpinyo,     J. Wu,     C.     R. Ruiz,     S. Goodman,     X. Wang,     Y. Tay, et al., Pali-x: On scaling up a multilingual vision and language model, arXiv preprint arXiv:2305.18565 (2023).\
-[[paper](https://arxiv.org/abs/)]
+[[paper](https://arxiv.org/abs/2305.18565)]
 79. X. Li,     M. Liu,     H. Zhang,     C. Yu,     J. Xu,     H. Wu,     C. Cheang,     Y. Jing,     W. Zhang,     H. Liu, et al., Vision-language foundation models as effective robot imitators, arXiv preprint arXiv:2311.01378 (2023).\
-[[paper](https://arxiv.org/abs/)]
+[[paper](https://arxiv.org/abs/2311.01378)]
 80. A. Awadalla,     I. Gao,     J. Gardner,     J. Hessel,     Y. Hanafy,     W. Zhu,     K. Marathe,     Y. Bitton,     S. Gadre,     S. Sagawa, et al., Openflamingo: An open-source framework for training large autoregressive vision-language models, arXiv preprint arXiv:2308.01390 (2023).\
-[[paper](https://arxiv.org/abs/)]
+[[paper](https://arxiv.org/abs/2308.01390)]
 81. O. Mees,     L. Hermann,     E. Rosete-Beas,     W. Burgard, Calvin: A benchmark for language-conditioned policy learning for long-horizon robot manipulation tasks, IEEE Robotics and Automation Letters 7 (3) (2022) 7327-7334.\
-[[paper]()]
+[[paper](https://ieeexplore.ieee.org/abstract/document/9788026/)]
 82. M.     J. Kim,     K. Pertsch,     S. Karamcheti,     T. Xiao,     A. Balakrishna,     S. Nair,     R. Rafailov,     E. Foster,     G. Lam,     P. Sanketi, et al., Openvla: An open-source vision-language-action model, arXiv preprint arXiv:2406.09246 (2024).\
-[[paper](https://arxiv.org/abs/)]
+[[paper](https://arxiv.org/abs/2406.09246)]
 83. S. Karamcheti,     S. Nair,     A. Balakrishna,     P. Liang,     T. Kollar,     D. Sadigh, Prismatic vlms: Investigating the design space of visually-conditioned language models, arXiv preprint arXiv:2402.07865 (2024).\
-[[paper](https://arxiv.org/abs/)]
+[[paper](https://arxiv.org/abs/2402.07865)]
 84. H.     R. Walke,     K. Black,     T.     Z. Zhao,     Q. Vuong,     C. Zheng,     P. Hansen-Estruch,     A.     W. He,     V. Myers,     M.     J. Kim,     M. Du, et al., Bridgedata v2: A dataset for robot learning at scale, in: Conference on Robot Learning, PMLR, 2023, pp. 1723-1736.\
-[[paper]()]
+[[paper](https://proceedings.mlr.press/v229/walke23a.html)]
 85. J. Liu,     M. Liu,     Z. Wang,     L. Lee,     K. Zhou,     P. An,     S. Yang,     R. Zhang,     Y. Guo,     S. Zhang, Robomamba: Multimodal state space model for efficient robot reasoning and manipulation, arXiv preprint arXiv:2406.04339 (2024).\
-[[paper]()]
+[[paper](2406.04339)]
 86. A. Gu,     T. Dao, Mamba: Linear-time sequence modeling with selective state spaces, arXiv preprint arXiv:2312.00752 (2023).\
-[[paper](https://arxiv.org/abs/)]
+[[paper](https://arxiv.org/abs/2312.00752)]
 87. H. Liu,     C. Li,     Y. Li,     Y.     J. Lee, Improved baselines with visual instruction tuning, in: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2024, pp. 26296-26306.\
-[[paper]()]
+[[paper](http://openaccess.thecvf.com/content/CVPR2024/html/Liu_Improved_Baselines_with_Visual_Instruction_Tuning_CVPR_2024_paper.html)]
 88. F. Liu,     K. Lin,     L. Li,     J. Wang,     Y. Yacoob,     L. Wang, Mitigating hallucination in large multi-modal models via robust instruction tuning, in: The Twelfth International Conference on Learning Representations, 2023.\
-[[paper]()]
+[[paper](https://arxiv.org/abs/2306.14565)]
 89. P. Sermanet,     T. Ding,     J. Zhao,     F. Xia,     D. Dwibedi,     K. Gopalakrishnan,     C. Chan,     G. Dulac-Arnold,     S. Maddineni,     N.     J. Joshi, et al., Robovqa: Multimodal long-horizon reasoning for robotics, in: 2024 IEEE International Conference on Robotics and Automation (ICRA), IEEE, 2024, pp. 645-652.\
-[[paper]()]
+[[paper](https://ieeexplore.ieee.org/abstract/document/10610216/)]
 90. A. Radford,     J. Wu,     R. Child,     D. Luan,     D. Amodei,     I. Sutskever, et al., Language models are unsupervised multitask learners, OpenAI blog 1 (8) (2019) 9 .\
-[[paper]()]
+[[paper](https://storage.prod.researchhub.com/uploads/papers/2020/06/01/language-models.pdf)]
 91. Z. Yang,     L. Li,     K. Lin,     J. Wang,     C.-C. Lin,     Z. Liu,     L. Wang, The dawn of Imms: Preliminary explorations with gpt-4v (ision), arXiv preprint arXiv:2309.17421 9 (1) (2023) 1.\
-[[paper](https://arxiv.org/abs/)]
+[[paper](https://arxiv.org/abs/2309.17421)]
 92. U. Asif,     J. Tang,     S. Harrer, Graspnet: An efficient convolutional neural network for real-time grasp detection for low-powered devices., in: IJCAI, Vol. 7, 2018, pp. 4875-4882.\
-[[paper]()]
+[[paper](https://www.ijcai.org/Proceedings/2018/0677.pdf)]
 93. J. Wei,     X. Wang,     D. Schuurmans,     M. Bosma,     F. Xia,     E. Chi,     Q.     V. Le,     D. Zhou, et al., Chain-of-thought prompting elicits reasoning in large language models, Advances in Neural Information Processing Systems 35 (2022) 24824-24837.\
-[[paper]()]
+[[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/9d5609613524ecf4f15af0f7b31abca4-Abstract-Conference.html?ref=https://githubhelp.com)]
 94. D. Zhu,     J. Chen,     X. Shen,     X. Li,     M. Elhoseiny, Minigpt-4: Enhancing vision-language understanding with advanced large language models, arXiv preprint arXiv:2304.10592 (2023).\
-[[paper](https://arxiv.org/abs/)]
+[[paper](https://arxiv.org/abs/2304.10592)]
 95. J. Li,     D. Li,     S. Savarese,     S. Hoi, Blip-2: Bootstrapping language-image pre-training with frozen image encoders and large language models, in: Proceedings of the International Conference on Machine Learning, PMLR, 2023, pp. 19730-19742.\
-[[paper]()]
+[[paper](https://proceedings.mlr.press/v202/li23q)]
 96. A. Vaswani, Attention is all you need, Advances in Neural Information Processing Systems (2017).\
-[[paper]()]
+[[paper](https://proceedings.neurips.cc/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html)]
 97. H. Touvron,     L. Martin,     K. Stone,     P. Albert,     A. Almahairi,     Y. Babaei,     N. Bashlykov,     S. Batra,     P. Bhargava,     S. Bhosale, et al., Llama 2: Open foundation and fine-tuned chat models, arXiv preprint arXiv:2307.09288 (2023).\
-[[paper](https://arxiv.org/abs/)]
+[[paper](https://arxiv.org/abs/2307.09288)]
 98. X. Zhai,     B. Mustafa,     A. Kolesnikov,     L. Beyer, Sigmoid loss for language image pre-training, in: Proceedings of the IEEE/CVF International Conference on Computer Vision, 2023, pp. 11975-11986.\
-[[paper]()]
+[[paper](http://openaccess.thecvf.com/content/ICCV2023/html/Zhai_Sigmoid_Loss_for_Language_Image_Pre-Training_ICCV_2023_paper.html)]
 99. P.     E. Hart,     N.     J. Nilsson,     B. Raphael, A formal basis for the heuristic determination of minimum cost paths, IEEE transactions on Systems Science and Cybernetics 4 (2) (1968) 100-107.\
-[[paper]()]
+[[paper](https://ieeexplore.ieee.org/abstract/document/4082128/)]
 100. E.     W. Dijkstra, A note on two problems in connexion with graphs, in: Edsger Wybe Dijkstra: his life, work, and legacy, 2022, pp. 287-290.\
-[[paper]()]
+[[paper](https://dl.acm.org/doi/abs/10.1145/3544585.3544600)]
 101. Y. Long,     X. Li,     W. Cai,     H. Dong, Discuss before moving: Visual language navigation via multi-expert discussions, in: 2024 IEEE International Conference on Robotics and Automation (ICRA), IEEE, 2024, pp. 17380-17387.\
-[[paper]()]
+[[paper](https://ieeexplore.ieee.org/abstract/document/10611565/)]
 102. W. Dai,     J. Li,     D. Li,     A.     M.     H. Tiong,     J. Zhao,     W. Wang,     B. Li,     P. Fung,     S. Hoi, Instructblip: Towards general-purpose vision-language models with instruction tuning (2023). arXiv:2305.06500. \
 [[paper](https://arxiv.org/abs/2305.06500)]
 103. P. Anderson,     Q. Wu,     D. Teney,     J. Bruce,     M. Johnson,     N. Sünderhauf,     I. Reid,     S. Gould,     A. Van Den Hengel, Vision-and-language navigation: Interpreting visually-grounded navigation instructions in real environments, in: Proceedings of the IEEE conference on computer vision and pattern recognition, 2018, pp. 3674-3683.\
-[[paper]()]
+[[paper](http://openaccess.thecvf.com/content_cvpr_2018/html/Anderson_Vision-and-Language_Navigation_Interpreting_CVPR_2018_paper.html)]
 104. D. Shah,     B. Osiński,     S. Levine, et al., Lm-nav: Robotic navigation with large pre-trained models of language, vision, and action, in: Conference on robot learning, PMLR, 2023, pp. 492-504.\
-[[paper]()]
+[[paper](https://proceedings.mlr.press/v205/shah23b)]
 105. B. Yu,     H. Kasaei,     M. Cao, L3mvn: Leveraging large language models for visual target navigation, in: 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), IEEE, 2023, pp. 3554-3560.\
-[[paper]()]
+[[paper](https://ieeexplore.ieee.org/abstract/document/10342512/)]
 106. Y. Liu, Roberta: A robustly optimized bert pretraining approach, arXiv preprint arXiv:1907.11692 364 (2019).\
-[[paper](https://arxiv.org/abs/)]
+[[paper](https://arxiv.org/abs/1907.11692)]
 107. S.     K. Ramakrishnan,     A. Gokaslan,     E. Wijmans,     O. Maksymets,     A. Clegg,     J. Turner,     E. Undersander,     W. Galuba,     A. Westbury,     A.     X. Chang, et al., Habitat-matterport 3d dataset (hm3d): 1000 large-scale 3d environments for embodied ai, arXiv preprint arXiv:2109.08238 (2021).\
-[[paper](https://arxiv.org/abs/)]
+[[paper](https://arxiv.org/abs/2109.08238)]
 108. F. Xia,     A.     R. Zamir,     Z. He,     A. Sax,     J. Malik,     S. Savarese, Gibson env: Real-world perception for embodied agents, in: Proceedings of the IEEE conference on computer vision and pattern recognition, 2018, pp. 9068-9079.\
-[[paper]()]
+[[paper](http://openaccess.thecvf.com/content_cvpr_2018/html/Xia_Gibson_Env_Real-World_CVPR_2018_paper.html)]
 109. D. Shah,     M.     R. Equi,     B. Osiński,     F. Xia,     B. Ichter,     S. Levine, Navigation with large language models: Semantic guesswork as a heuristic for planning, in: Conference on Robot Learning, PMLR, 2023, pp. 2683-2699.\
-[[paper]()]
+[[paper](https://proceedings.mlr.press/v229/shah23c.html)]
 110. L. Ouyang,     J. Wu,     X. Jiang,     D. Almeida,     C. Wainwright,     P. Mishkin,     C. Zhang,     S. Agarwal,     K. Slama,     A. Ray, et al., Training language models to follow instructions with human feedback, Advances in neural information processing systems 35 (2022) 27730-27744.\
-[[paper]()]
+[[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b1efde53be364a73914f58805a001731-Abstract-Conference.html)]
 111. C. Huang,     O. Mees,     A. Zeng,     W. Burgard, Visual language maps for robot navigation, in: 2023 IEEE International Conference on Robotics and Automation (ICRA), IEEE, 2023, pp. 10608-10615.\
-[[paper]()]
+[[paper](https://ieeexplore.ieee.org/abstract/document/10160969/)]
 112. B. Li,     K.     Q. Weinberger,     S. Belongie,     V. Koltun,     R. Ranftl, Language-driven semantic segmentation, arXiv preprint arXiv:2201.03546 (2022).\
-[[paper](https://arxiv.org/abs/)]
+[[paper](https://arxiv.org/abs/2201.03546)]
 113. A. Chang,     A. Dai,     T. Funkhouser,     M. Halber,     M. Niessner,     M. Savva,     S. Song,     A. Zeng,     Y. Zhang, Matterport3d: Learning from rgb-d data in indoor environments, arXiv preprint arXiv:1709.06158 (2017).\
-[[paper](https://arxiv.org/abs/)]
+[[paper](https://arxiv.org/abs/1709.06158)]
 114. E. Kolve,     R. Mottaghi,     W. Han,     E. VanderBilt,     L. Weihs,     A. Herrasti,     M. Deitke,     K. Ehsani,     D. Gordon,     Y. Zhu, et al., Ai2-thor: An interactive 3d environment for visual ai, arXiv preprint arXiv:1712.05474 (2017).\
-[[paper](https://arxiv.org/abs/)]
+[[paper](https://arxiv.org/abs/1712.05474)]
 115. G. Zhou,     Y. Hong,     Q. Wu, Navgpt: Explicit reasoning in vision-and-language navigation with large language models, in: Proceedings of the AAAI Conference on Artificial Intelligence, Vol. 38, 2024, pp. 7641- 7649.\
-[[paper]()]
+[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28597)]
 116. H. Yin,     X. Xu,     Z. Wu,     J. Zhou,     J. Lu, Sg-nav: Online 3d scene graph prompting for llm-based zero-shot object navigation, arXiv preprint arXiv:2410.08189 (2024).\
-[[paper](https://arxiv.org/abs/)]
+[[paper](https://arxiv.org/abs/2410.08189)]
 117. M. Deitke,     W. Han,     A. Herrasti,     A. Kembhavi,     E. Kolve,     R. Mot-taghi,     J. Salvador,     D. Schwenk,     E. VanderBilt,     M. Wallingford, et al., Robothor: An open simulation-to-real embodied ai platform, in: Proceedings of the IEEE/CVF conference on computer vision and pattern recognition, 2020, pp. 3164-3174.\
-[[paper]()]
+[[paper](http://openaccess.thecvf.com/content_CVPR_2020/html/Deitke_RoboTHOR_An_Open_Simulation-to-Real_Embodied_AI_Platform_CVPR_2020_paper.html)]
 118. A. Khandelwal,     L. Weihs,     R. Mottaghi,     A. Kembhavi, Simple but effective: Clip embeddings for embodied ai, in: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2022, pp. 14829-14838.\
-[[paper]()]
+[[paper](http://openaccess.thecvf.com/content/CVPR2022/html/Khandelwal_Simple_but_Effective_CLIP_Embeddings_for_Embodied_AI_CVPR_2022_paper.html)]
 119. L. Weihs,     M. Deitke,     A. Kembhavi,     R. Mottaghi, Visual room rearrangement, in: Proceedings of the IEEE/CVF conference on computer vision and pattern recognition, 2021, pp. 5922-5931.\
-[[paper]()]
+[[paper](http://openaccess.thecvf.com/content/CVPR2021/html/Weihs_Visual_Room_Rearrangement_CVPR_2021_paper.html)]
 120. A. Majumdar,     G. Aggarwal,     B. Devnani,     J. Hoffman,     D. Batra, Zson: Zero-shot object-goal navigation using multimodal goal embeddings, Advances in Neural Information Processing Systems 35 (2022) 32340- 32352.\
-[[paper]()]
+[[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/d0b8f0c8f79d3a621af945cafb669f4b-Abstract-Conference.html)]
 121. G. Zhou,     Y. Hong,     Z. Wang,     X.     E. Wang,     Q. Wu, Navgpt-2: Unleashing navigational reasoning capability for large vision-language models, in: European Conference on Computer Vision, Springer, 2025, pp. 260- 278.\
-[[paper]()]
+[[paper](https://link.springer.com/chapter/10.1007/978-3-031-72667-5_15)]
 122. A. Ku,     P. Anderson,     R. Patel,     E. Ie,     J. Baldridge, Room-across-room: Multilingual vision-and-language navigation with dense spatiotemporal grounding, arXiv preprint arXiv:2010.07954 (2020).\
-[[paper](https://arxiv.org/abs/)]
+[[paper](https://arxiv.org/abs/2010.07954)]
 123. N. Yokoyama,     S. Ha,     D. Batra,     J. Wang,     B. Bucher, Vlfm: Vision-language frontier maps for zero-shot semantic navigation, in: 2024 IEEE International Conference on Robotics and Automation (ICRA), IEEE, 2024, pp. 42-48.\
-[[paper]()]
+[[paper](https://ieeexplore.ieee.org/abstract/document/10610712/)]
 124. B. Lin,     Y. Nie,     Z. Wei,     J. Chen,     S. Ma,     J. Han,     H. Xu,     X. Chang,     X. Liang, Navcot: Boosting llm-based vision-and-language navigation via learning disentangled reasoning, arXiv preprint arXiv:2403.07376 (2024).\
-[[paper](https://arxiv.org/abs/)]
+[[paper](https://arxiv.org/abs/2403.07376)]
 125. V. Jain,     G. Magalhaes,     A. Ku,     A. Vaswani,     E. Ie,     J. Baldridge, Stay on the path: Instruction fidelity in vision-and-language navigation, arXiv preprint arXiv:1905.12255 (2019).\
-[[paper](https://arxiv.org/abs/)]
+[[paper](https://arxiv.org/abs/1905.12255)]
 126. Y. Qi,     Q. Wu,     P. Anderson,     X. Wang,     W.     Y. Wang,     C. Shen,     A.     v.     d. Hengel, Reverie: Remote embodied visual referring expression in real indoor environments, in: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2020.\
-[[paper]()]
+[[paper](http://openaccess.thecvf.com/content_CVPR_2020/html/Qi_REVERIE_Remote_Embodied_Visual_Referring_Expression_in_Real_Indoor_Environments_CVPR_2020_paper.html)]
 127. D. Zheng,     S. Huang,     L. Zhao,     Y. Zhong,     L. Wang, Towards learning a generalist model for embodied navigation, in: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2024, pp. 13624-13634.\
-[[paper]()]
+[[paper](http://openaccess.thecvf.com/content/CVPR2024/html/Zheng_Towards_Learning_a_Generalist_Model_for_Embodied_Navigation_CVPR_2024_paper.html)]
 128. L. Zheng,     W.-L. Chiang,     Y. Sheng,     S. Zhuang,     Z. Wu,     Y. Zhuang,     Z. Lin,     Z. Li,     D. Li,     E. Xing, et al., Judging llm-as-a-judge with mt-bench and chatbot arena, Advances in Neural Information Processing Systems 36 (2023) 46595-46623.\
-[[paper]()]
+[[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/91f18a1287b398d378ef22505bf41832-Abstract-Datasets_and_Benchmarks.html)]
 129. J. Thomason,     M. Murray,     M. Cakmak,     L. Zettlemoyer, Vision-and-dialog navigation, in: Conference on Robot Learning, PMLR, 2020, pp. 394-406.\
-[[paper]()]
+[[paper](http://proceedings.mlr.press/v100/thomason20a.html)]
 130. F. Zhu,     X. Liang,     Y. Zhu,     Q. Yu,     X. Chang,     X. Liang, Soon: Scenario oriented object navigation with graph-based exploration, in: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2021, pp. 12689-12699.\
-[[paper]()]
+[[paper](http://openaccess.thecvf.com/content/CVPR2021/html/Zhu_SOON_Scenario_Oriented_Object_Navigation_With_Graph-Based_Exploration_CVPR_2021_paper.html)]
 131. D. Azuma,     T. Miyanishi,     S. Kurita,     M. Kawanabe, Scanqa: 3d question answering for spatial scene understanding, in: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022, pp. 19129-19139.\
 [[paper]()]
 132. H. Liu,     C. Li,     Q. Wu,     Y.     J. Lee, Visual instruction tuning, Advances in neural information processing systems 36 (2024).\
