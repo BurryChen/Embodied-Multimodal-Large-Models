@@ -270,45 +270,47 @@ todo:
 130. F. Zhu,     X. Liang,     Y. Zhu,     Q. Yu,     X. Chang,     X. Liang, Soon: Scenario oriented object navigation with graph-based exploration, in: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2021, pp. 12689-12699.\
 [[paper](http://openaccess.thecvf.com/content/CVPR2021/html/Zhu_SOON_Scenario_Oriented_Object_Navigation_With_Graph-Based_Exploration_CVPR_2021_paper.html)]
 131. D. Azuma,     T. Miyanishi,     S. Kurita,     M. Kawanabe, Scanqa: 3d question answering for spatial scene understanding, in: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022, pp. 19129-19139.\
-[[paper]()]
+[[paper](http://openaccess.thecvf.com/content/CVPR2022/html/Azuma_ScanQA_3D_Question_Answering_for_Spatial_Scene_Understanding_CVPR_2022_paper.html)]
 132. H. Liu,     C. Li,     Q. Wu,     Y.     J. Lee, Visual instruction tuning, Advances in neural information processing systems 36 (2024).\
-[[paper]()]
+[[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/6dcf277ea32ce3288914faf369fe6de0-Abstract-Conference.html)]
 133. E. Wijmans,     S. Datta,     O. Maksymets,     A. Das,     G. Gkioxari,     S. Lee,     I. Essa,     D. Parikh,     D. Batra, Embodied question answering in photore-alistic environments with point cloud perception, in: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2019, pp. 6659-6668.\
-[[paper]()]
+[[paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Wijmans_Embodied_Question_Answering_in_Photorealistic_Environments_With_Point_Cloud_Perception_CVPR_2019_paper.html)]
 134. L. Wang,     Z. He,     R. Dang,     M. Shen,     C. Liu,     Q. Chen, Vision-and-language navigation via causal learning, in: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2024, pp. 13139-13150.\
-[[paper]()]
+[[paper](http://openaccess.thecvf.com/content/CVPR2024/html/Wang_Vision-and-Language_Navigation_via_Causal_Learning_CVPR_2024_paper.html)]
 135. R. Liu,     W. Wang,     Y. Yang, Volumetric environment representation for vision-language navigation, in: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2024, pp. 16317- 16328.\
-[[paper]()]
+[[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Liu_Volumetric_Environment_Representation_for_Vision-Language_Navigation_CVPR_2024_paper.html)]
 136. D. Shah,     A. Sridhar,     A. Bhorkar,     N. Hirose,     S. Levine, GNM: A General Navigation Model to Drive Any Robot, in: International Conference on Robotics and Automation (ICRA), 2023.\
 [[paper](https://arxiv.org/abs/2210.03370)]
 137. M. Sandler,     A. Howard,     M. Zhu,     A. Zhmoginov,     L.-C. Chen, Mo-bilenetv2: Inverted residuals and linear bottlenecks, in: Proceedings of the IEEE conference on computer vision and pattern recognition, 2018, pp. 4510-4520.\
-[[paper]()]
+[[paper](http://openaccess.thecvf.com/content_cvpr_2018/html/Sandler_MobileNetV2_Inverted_Residuals_CVPR_2018_paper.html)]
 138. D. Shah,     A. Sridhar,     N. Dashora,     K. Stachowicz,     K. Black,     N. Hirose,     S. Levine, ViNT: A foundation model for visual navigation, in: 7th Annual Conference on Robot Learning, 2023. URL https://arxiv.org/abs/2306.14846
-139. A. Sridhar,     D. Shah,     C. Glossop,     S. Levine, NoMaD: Goal Masked Diffusion Policies for Navigation and Exploration, arXiv pre-print (2023). URL https://arxiv.org/abs/2310.xxxx
+[[paper](https://arxiv.org/abs/2306.14846)]
+139. A. Sridhar,     D. Shah,     C. Glossop,     S. Levine, NoMaD: Goal Masked Diffusion Policies for Navigation and Exploration, arXiv pre-print (2023). \
+[[paper](https://arxiv.org/abs/2310.07896)]
 140. J. Deng,     W. Dong,     R. Socher,     L.-J. Li,     K. Li,     L. Fei-Fei, Imagenet: A large-scale hierarchical image database, in: 2009 IEEE conference on computer vision and pattern recognition, Ieee, 2009, pp. 248-255.\
-[[paper]()]
+[[paper](https://ieeexplore.ieee.org/abstract/document/5206848/)]
 141. M. Shridhar,     L. Manuelli,     D. Fox, Cliport: What and where pathways for robotic manipulation, in: Conference on robot learning, PMLR, 2022, pp. 894-906.\
-[[paper]()]
+[[paper](https://proceedings.mlr.press/v164/shridhar22a.html)]
 142. R. Zhang,     J. Han,     C. Liu,     P. Gao,     A. Zhou,     X. Hu,     S. Yan,     P. Lu,     H. Li,     Y. Qiao, Llama-adapter: Efficient fine-tuning of language models with zero-init attention, arXiv preprint arXiv:2303.16199 (2023).\
-[[paper]()]
+[[paper](https://arxiv.org/abs/2303.16199)]
 143. H. Luo,     Z. Guo,     Z. Wu,     F. Teng,     T. Li, Transformer-based vision-language alignment for robot navigation and question answering, Information Fusion 108 (2024) 102351.\
-[[paper]()]
+[[paper](https://www.sciencedirect.com/science/article/pii/S1566253524001295)]
 144. J. Ho,     A. Jain,     P. Abbeel, Denoising diffusion probabilistic models, Advances in neural information processing systems 33\left(2020\right)6840- 6851.\
-[[paper]()]
+[[paper](https://proceedings.neurips.cc/paper/2020/hash/4c5bcfec8584af0d967f1ab10179ca4b-Abstract.html)]
 145. S. Nair,     A. Rajeswaran,     V. Kumar,     C. Finn,     A. Gupta, R3m: A universal visual representation for robot manipulation (2022). arXiv: 2203.12601.\
 [[paper](https://arxiv.org/abs/2203.12601)]
 146. K. Grauman,     M. Wray,     A. Fragomeni,     J.     P. Munro,     W. Price,     P. Ar-belaez,     D. Crandall,     D. Damen,     G.     M. Farinella,     B. Ghanem, et al., Around the world in 3,000 hours of egocentric video, in: Computer Vision and Pattern Recognition (CVPR), 2022.\
-[[paper]()]
+[[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Grauman_Ego4D_Around_the_World_in_3000_Hours_of_Egocentric_Video_CVPR_2022_paper.pdf)]
 147. K. He,     H. Fan,     Y. Wu,     S. Xie,     R. Girshick, Momentum contrast for unsupervised visual representation learning, in: Proceedings of the IEEE/CVF conference on computer vision and pattern recognition, 2020, pp. 9729-9738.\
-[[paper]()]
+[[paper](http://openaccess.thecvf.com/content_CVPR_2020/html/He_Momentum_Contrast_for_Unsupervised_Visual_Representation_Learning_CVPR_2020_paper.html)]
 148. Y. Jing,     X. Zhu,     X. Liu,     Q. Sima,     T. Yang,     Y. Feng,     T. Kong, Exploring visual pre-training for robot manipulation: Datasets, models and methods, in: 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), IEEE, 2023, pp. 11390-11395.\
-[[paper]()]
+[[paper](https://ieeexplore.ieee.org/abstract/document/10342201/)]
 149. I. Radosavovic,     T. Xiao,     S. James,     P. Abbeel,     J. Malik,     T. Darrell, Real-world robot learning with masked visual pre-training, in: Conference on Robot Learning, PMLR, 2023, pp. 416-426.\
-[[paper]()]
+[[paper](https://proceedings.mlr.press/v205/radosavovic23a.html)]
 150. D. Damen,     H. Doughty,     G.     M. Farinella,     A. Furnari,     E. Kazakos,     J. Ma,     D. Moltisanti,     J. Munro,     T. Perrett,     W. Price, et al., Rescaling egocentric vision: Collection, pipeline and challenges for epic-kitchens-100, International Journal of Computer Vision (2022) 1-23.\
-[[paper]()]
+[[paper](https://link.springer.com/article/10.1007/s11263-021-01531-2)]
 151. R. Goyal,     S. Ebrahimi Kahou,     V. Michalski,     J. Materzynska,     S. Westphal,     H. Kim,     V. Haenel,     I. Fruend,     P. Yianilos,     M. Mueller-Freitag, et al., The" something something" video database for learning and evaluating visual common sense, in: Proceedings of the IEEE international conference on computer vision, 2017, pp. 5842-5850.\
-[[paper]()]
+[[paper](http://openaccess.thecvf.com/content_iccv_2017/html/Goyal_The_Something_Something_ICCV_2017_paper.html)]
 152. D. Shan,     J. Geng,     M. Shu,     D.     F. Fouhey, Understanding human hands in contact at internet scale, in: Proceedings of the IEEE/CVF conference on computer vision and pattern recognition, 2020, pp. 9869-9878.\
 [[paper]()]
 153. S. Karamcheti,     S. Nair,     A.     S. Chen,     T. Kollar,     C. Finn,     D. Sadigh,     P. Liang, Language-driven representation learning for robotics, arXiv preprint arXiv:2302.12766 (2023).\
