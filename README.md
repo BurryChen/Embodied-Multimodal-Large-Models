@@ -90,57 +90,57 @@ todo:
 40. J. Betker,     G. Goh,     L. Jing,     T. Brooks,     J. Wang,     L. Li,     L. Ouyang,     J. Zhuang,     J. Lee,     Y. Guo, et al., Improving image generation with better captions, Computer Science. (3) (2023).\
 [[paper](https://cdn.openai.com/papers/dall-e-3.pdf)]
 41. J. Li,     D. Li,     C. Xiong,     S. Hoi, Blip: Bootstrapping language-image pre-training for unified vision-language understanding and generation, in: Proceedings of the International Conference on Machine Learning, PMLR, 2022, pp. 12888-12900.\
-[[paper]()]
+[[paper](https://proceedings.mlr.press/v162/li22n.html)]
 42. J.-B. Alayrac,     J. Donahue,     P. Luc,     A. Miech,     I. Barr,     Y. Hasson,     K. Lenc,     A. Mensch,     K. Millican,     M. Reynolds, et al., Flamingo: a visual language model for few-shot learning, Advances in Neural Information Processing Systems 35 (2022) 23716-23736.\
-[[paper]()]
+[[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/960a172bc7fbf0177ccccbb411a7d800-Abstract-Conference.html)]
 43. L.     H. Li,     M. Yatskar,     D. Yin,     C.-J. Hsieh,     K.-W. Chang, Visualbert: A simple and performant baseline for vision and language, arXiv preprint arXiv:1908.03557 (2019).\
-[[paper]()]
+[[paper](https://arxiv.org/abs/1908.03557)]
 44. H. Chen,     W. Zhao,     Y. Li,     T. Zhong,     Y. Wang,     Y. Shang,     L. Guo,     J. Han,     T. Liu,     J. Liu, et al., 3d-ct-gpt: Generating 3d radiology reports through integration of large vision-language models, arXiv preprint arXiv:2409.19330 (2024).\
-[[paper]()]
+[[paper](https://arxiv.org/abs/2409.19330)]
 45. C. Ma,     Z. Wu,     J. Wang,     S. Xu,     Y. Wei,     Z. Liu,     F. Zeng,     X. Jiang,     L. Guo,     X. Cai, et al., An iterative optimizing framework for radiology report summarization with chatgpt, IEEE Transactions on Artificial Intelligence 5 (8) (2024) 4163-4175.\
-[[paper]()]
+[[paper](https://ieeexplore.ieee.org/abstract/document/10433180/)]
 46. C. Jia,     Y. Yang,     Y. Xia,     Y.-T. Chen,     Z. Parekh,     H. Pham,     Q. Le,     Y.-H. Sung,     Z. Li,     T. Duerig, Scaling up visual and vision-language representation learning with noisy text supervision, in: Proceedings of the International Conference on Machine Learning, PMLR, 2021, pp. 4904-4916.\
-[[paper]()]
+[[paper](https://proceedings.mlr.press/v139/jia21b.html)]
 47. J. Wang,     Z. Yang,     X. Hu,     L. Li,     K. Lin,     Z. Gan,     Z. Liu,     C. Liu,     L. Wang, Git: A generative image-to-text transformer for vision and language, arXiv preprint arXiv:2205.14100 (2022).\
-[[paper]()]
+[[paper](https://arxiv.org/abs/2205.14100)]
 48. A. Kamath,     M. Singh,     Y. LeCun,     G. Synnaeve,     I. Misra,     N. Carion, Mdetr-modulated detection for end-to-end multi-modal understanding, in: Proceedings of the IEEE/CVF International Conference on Computer Vision, 2021, pp. 1780-1790.\
-[[paper]()]
+[[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Kamath_MDETR_-_Modulated_Detection_for_End-to-End_Multi-Modal_Understanding_ICCV_2021_paper.html)]
 49. D. Driess,     F. Xia,     M.     S. Sajjadi,     C. Lynch,     A. Chowdhery,     B. Ichter,     A. Wahid,     J. Tompson,     Q. Vuong,     T. Yu, et al., Palm-e: An embodied multimodal language model, arXiv preprint arXiv:2303.03378 (2023).\
-[[paper]()]
+[[paper](https://arxiv.org/abs/2303.03378)]
 50. J. Yu,     Z. Wang,     V. Vasudevan,     L. Yeung,     M. Seyedhosseini,     Y. Wu, Coca: Contrastive captioners are image-text foundation models, arXiv preprint arXiv:2205.01917 (2022).\
-[[paper]()]
+[[paper](https://arxiv.org/abs/2205.01917)]
 51. C. Chen,     U. Jain,     C. Schissler,     S.     V.     A. Gari,     Z. Al-Halah,     V.     K. Ithapu,     P. Robinson,     K. Grauman, Soundspaces: Audio-visual navigation in 3d environments, in: Computer Vision-ECCV 2020: 16th European Conference, Glasgow, UK, August 23-28, 2020, Proceedings, Part VI 16, Springer, 2020, pp. 17-36.\
-[[paper]()]
+[[paper](https://link.springer.com/chapter/10.1007/978-3-030-58539-6_2)]
 52. C. Chen,     Z. Al-Halah,     K. Grauman, Semantic audio-visual navigation, in: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2021, pp. 15516-15525.\
-[[paper]()]
+[[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Semantic_Audio-Visual_Navigation_CVPR_2021_paper.html)]
 53. Y. Yu,     W. Huang,     F. Sun,     C. Chen,     Y. Wang,     X. Liu, Sound adversarial audio-visual navigation, arXiv preprint arXiv:2202.10910 (2022).\
-[[paper]()]
+[[paper](https://arxiv.org/abs/2202.10910)]
 54. A. Younes,     D. Honerkamp,     T. Welschehold,     A. Valada, Catch me if you hear me: Audio-visual navigation in complex unmapped environments with moving sounds, IEEE Robotics and Automation Letters 8 (2) (2023) 928-935.\
-[[paper]()]
+[[paper](https://ieeexplore.ieee.org/abstract/document/10008039/)]
 55. H. Li,     Y. Zhang,     J. Zhu,     S. Wang,     M.     A. Lee,     H. Xu,     E. Adelson,     L. Fei-Fei,     R. Gao,     J. Wu, See, hear, and feel: Smart sensory fusion for robotic manipulation, in: Conference on Robot Learning, PMLR, 2023, pp. 1368-1378.\
-[[paper]()]
+[[paper](https://arxiv.org/abs/2212.03858)]
 56. A. Thankaraj,     L. Pinto, That sounds right: Auditory self-supervision for dynamic robot manipulation, in: Conference on Robot Learning, PMLR, 2023, pp. 1036-1049.\
-[[paper]()]
+[[paper](https://proceedings.mlr.press/v229/thankaraj23a.html)]
 57. Z. Liu,     C. Chi,     E. Cousineau,     N. Kuppuswamy,     B. Burchfiel,     S. Song, Maniwav: Learning robot manipulation from in-the-wild audio-visual data, in: 8th Annual Conference on Robot Learning, 2024.\
-[[paper]()]
+[[paper](https://openreview.net/forum?id=wSWMsjuMTI)]
 58. S. Dikhale,     K. Patel,     D. Dhingra,     I. Naramura,     A. Hayashi,     S. Iba,     N. Jamali, Visuotactile 6d pose estimation of an in-hand object using vision and tactile sensor data, IEEE Robotics and Automation Letters 7 (2) (2022) 2148-2155.\
-[[paper]()]
+[[paper](https://ieeexplore.ieee.org/abstract/document/9682507/)]
 59. R. Calandra,     A. Owens,     D. Jayaraman,     J. Lin,     W. Yuan,     J. Malik,     E.     H. Adelson,     S. Levine, More than a feeling: Learning to grasp and regrasp using vision and touch, IEEE Robotics and Automation Letters 3 (4) (2018) 3300-3307.\
-[[paper]()]
+[[paper](https://ieeexplore.ieee.org/abstract/document/8403291/)]
 60. Y. Han,     K. Yu,     R. Batra,     N. Boyd,     C. Mehta,     T. Zhao,     Y. She,     S. Hutchinson,     Y. Zhao, Learning generalizable vision-tactile robotic grasping strategy for deformable objects via transformer, IEEE/ASME Transactions on Mechatronics (2024).\
-[[paper]()]
+[[paper](https://ieeexplore.ieee.org/abstract/document/10552075/)]
 61. J. Yang,     Y. Dong,     S. Liu,     B. Li,     Z. Wang,     H. Tan,     C. Jiang,     J. Kang,     Y. Zhang,     K. Zhou, et al., Octopus: Embodied vision-language programmer from environmental feedback, in: European Conference on Computer Vision, Springer, 2025, pp. 20-38.\
-[[paper]()]
+[[paper](https://link.springer.com/chapter/10.1007/978-3-031-73232-4_2)]
 62. C. Li,     R. Zhang,     J. Wong,     C. Gokmen,     S. Srivastava,     R. Martín-Martín,     C. Wang,     G. Levine,     M. Lingelbach,     J. Sun, et al., Behavior-1k: A benchmark for embodied ai with 1,000 everyday activities and realistic simulation, in: Conference on Robot Learning, PMLR, 2023, pp. 80-93.\
-[[paper]()]
+[[paper](https://proceedings.mlr.press/v205/li23a.html)]
 63. C. Jin,     W. Tan,     J. Yang,     B. Liu,     R. Song,     L. Wang,     J. Fu, Alphablock: Embodied finetuning for vision-language reasoning in robot manipulation, arXiv preprint arXiv:2305.18898 (2023).\
-[[paper]()]
+[[paper](https://arxiv.org/abs/2305.18898)]
 64. W.-L. Chiang,     Z. Li,     Z. Lin,     Y. Sheng,     Z. Wu,     H. Zhang,     L. Zheng,     S. Zhuang,     Y. Zhuang,     J.     E. Gonzalez, et al., Vicuna: An open-source chatbot impressing gpt-4 with 90% * chatgpt quality, See https://vicuna.lmsys.org (accessed 14 April 2023) 2 (3) (2023) 6.\
-[[paper]()]
+[[paper](https://vicuna.lmsys.org)]
 65. Y. Fang,     W. Wang,     B. Xie,     Q. Sun,     L. Wu,     X. Wang,     T. Huang,     X. Wang,     Y. Cao, Eva: Exploring the limits of masked visual representation learning at scale, in: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2023, pp. 19358-19369.\
-[[paper]()]
+[[paper](http://openaccess.thecvf.com/content/CVPR2023/html/Fang_EVA_Exploring_the_Limits_of_Masked_Visual_Representation_Learning_at_CVPR_2023_paper.html)]
 66. H. Huang,     F. Lin,     Y. Hu,     S. Wang,     Y. Gao, Copa: General robotic manipulation through spatial constraints of parts with foundation models, arXiv preprint arXiv:2403.08248 (2024).\
-[[paper]()]
+[[paper](https://ieeexplore.ieee.org/abstract/document/10801352/)]
 67. H.-S. Fang,     C. Wang,     M. Gou,     C. Lu, Graspnet-1billion: A large-scale benchmark for general object grasping, in: Proceedings of the IEEE/CVF conference on computer vision and pattern recognition, 2020, pp. 11444-11453.\
 [[paper]()]
 68. W. Huang,     C. Wang,     Y. Li,     R. Zhang,     L. Fei-Fei, Rekep: Spatiotemporal reasoning of relational keypoint constraints for robotic manipulation, arXiv preprint arXiv:2409.01652 (2024).\
