@@ -440,174 +440,174 @@ todo:
 215. B. Liu,     Y. Zhu,     C. Gao,     Y. Feng,     Q. Liu,     Y. Zhu,     P. Stone, Libero: Benchmarking knowledge transfer for lifelong robot learning, Advances in Neural Information Processing Systems 36 (2024).\
 [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/8c3c666820ea055a77726d66fc7d447f-Abstract-Datasets_and_Benchmarks.html)]
 216. J. Lu,     D. Batra,     D. Parikh,     S. Lee, Vilbert: Pretraining task-agnostic visiolinguistic representations for vision-and-language tasks, Advances in neural information processing systems 32 (2019).\
-[[paper]()]
-217. Y. Hong,     H. Zhen,     P. Chen,     S. Zheng,     Y. Du,     Z. Chen,     C. Gan, 3d-llm: Injecting the 3\vthickspd world into large language models, Advances in Neural Information Processing Systems 36 (2023) 20482-20494.\
-[[paper]()]
+[[paper](https://proceedings.neurips.cc/paper_files/paper/2019/hash/c74d97b01eae257e44aa9d5bade97baf-Abstract.html)]
+217. Y. Hong,     H. Zhen,     P. Chen,     S. Zheng,     Y. Du,     Z. Chen,     C. Gan, 3d-llm: Injecting the 3d world into large language models, Advances in Neural Information Processing Systems 36 (2023) 20482-20494.\
+[[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/413885e70482b95dcbeeddc1daf39177-Abstract-Conference.html)]
 218. Y. Rubanova,     T. Lopez-Guevara,     K.     R. Allen,     W.     F. Whitney,     K. Stachenfeld,     T. Pfaff, Learning rigid-body simulators over implicit shapes for large-scale scenes and vision, arXiv preprint arXiv:2405.14045 (2024).\
-[[paper](https://arxiv.org/abs/)]
+[[paper](https://arxiv.org/abs/2405.14045)]
 219. N. Jiang,     Z. Zhang,     H. Li,     X. Ma,     Z. Wang,     Y. Chen,     T. Liu,     Y. Zhu,     S. Huang, Scaling up dynamic human-scene interaction modeling, in: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2024, pp. 1737-1747.\
-[[paper]()]
+[[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Jiang_Scaling_Up_Dynamic_Human-Scene_Interaction_Modeling_CVPR_2024_paper.html)]
 220. H.-X. Yu,     H. Duan,     C. Herrmann,     W.     T. Freeman,     J. Wu, Wonder-world: Interactive 3\vthickspd scene generation from a single image, arXiv preprint arXiv:2406.09394 (2024).\
-[[paper](https://arxiv.org/abs/)]
+[[paper](https://arxiv.org/abs/2406.09394)]
 221. L. Li,     A. Dai, Genzi: Zero-shot 3d human-scene interaction generation, in: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2024, pp. 20465-20474.\
-[[paper]()]
+[[paper](http://openaccess.thecvf.com/content/CVPR2024/html/Li_GenZI_Zero-Shot_3D_Human-Scene_Interaction_Generation_CVPR_2024_paper.html)]
 222. C. Li,     F. Xia,     R. Martín-Martín,     M. Lingelbach,     S. Srivastava,     B. Shen,     K. Vainio,     C. Gokmen,     G. Dharan,     T. Jain,     A. Kurenkov,     C.     K. Liu,     H. Gweon,     J. Wu,     L. Fei-Fei,     S. Savarese, igibson 2.0: Object-centric simulation for robot learning of everyday household tasks (2021). arXiv:2108.03272.\
 [[paper](https://arxiv.org/abs/2108.03272)]
 223. M. Savva,     A. Kadian,     O. Maksymets,     Y. Zhao,     E. Wijmans,     B. Jain,     J. Straub,     J. Liu,     V. Koltun,     J. Malik, et al., Habitat: A platform for embodied ai research, in: Proceedings of the IEEE/CVF international conference on computer vision, 2019, pp. 9339-9347.\
-[[paper]()]
-224. G. Authors, Genesis: A universal and generative physics engine for robotics and beyond (December 2024). URL https://github.com/Genesis-Embodied-AI/Genesis
+[[paper](http://openaccess.thecvf.com/content_ICCV_2019/html/Savva_Habitat_A_Platform_for_Embodied_AI_Research_ICCV_2019_paper.html)]
+224. G. Authors, Genesis: A universal and generative physics engine for robotics and beyond (December 2024). 
+[[paper]( https://github.com/Genesis-Embodied-AI/Genesis)]
 225. C. Chen,     C. Schissler,     S. Garg,     P. Kobernik,     A. Clegg,     P. Calamia,     D. Batra,     P. Robinson,     K. Grauman, Soundspaces 2.0: A simulation platform for visual-acoustic learning, Advances in Neural Information Processing Systems 35 (2022) 8896-8911.\
-[[paper]()]
+[[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/3a48b0eaba26ba862220a307a9edb0bb-Abstract-Datasets_and_Benchmarks.html)]
 226. Z. Wang,     H. Zheng,     Y. Nie,     W. Xu,     Q. Wang,     H. Ye,     Z. Li,     K. Zhang,     X. Cheng,     W. Dong, et al., All robots in one: A new standard and unified dataset for versatile, general-purpose embodied agents, arXiv preprint arXiv:2408.10899 (2024).\
-[[paper](https://arxiv.org/abs/)]
+[[paper](https://arxiv.org/abs/2408.10899)]
 227. C. Wang,     H. Shi,     W. Wang,     R. Zhang,     L. Fei-Fei,     C.     K. Liu, Dex-cap: Scalable and portable mocap data collection system for dexterous manipulation, arXiv preprint arXiv:2403.07788 (2024).\
-[[paper](https://arxiv.org/abs/)]
+[[paper](https://arxiv.org/abs/2403.07788)]
 228. H.-S. Fang,     H. Fang,     Z. Tang,     J. Liu,     C. Wang,     J. Wang,     H. Zhu,     C. Lu, Rh20t: A comprehensive robotic dataset for learning diverse skills in one-shot, in: 2024 IEEE International Conference on Robotics and Automation (ICRA), IEEE, 2024, pp. 653-660.\
-[[paper]()]
+[[paper](https://arxiv.org/abs/2307.00595)]
 229. P. Ren,     K. Zhang,     H. Zheng,     Z. Li,     Y. Wen,     F. Zhu,     M. Ma,     X. Liang, Surfer: Progressive reasoning with world models for robotic manipulation (2024). arXiv:2306.11335.\
 [[paper](https://arxiv.org/abs/2306.11335)]
 230. T. Mu,     Z. Ling,     F. Xiang,     D. Yang,     X. Li,     S. Tao,     Z. Huang,     Z. Jia,     H. Su, Maniskill: Generalizable manipulation skill benchmark with large-scale demonstrations, arXiv preprint arXiv:2107.14483 (2021).\
-[[paper]()]
+[[paper](https://arxiv.org/abs/2107.14483)]
 231. J. Gu,     F. Xiang,     X. Li,     Z. Ling,     X. Liu,     T. Mu,     Y. Tang,     S. Tao,     X. Wei,     Y. Yao,     X. Yuan,     P. Xie,     Z. Huang,     R. Chen,     H. Su, Maniskill2: A unified benchmark for generalizable manipulation skills, in: International Conference on Learning Representations, 2023.\
-[[paper]()]
+[[paper](https://arxiv.org/abs/2302.04659)]
 232. N.     M.     M. Shafiullah,     A. Rai,     H. Etukuru,     Y. Liu,     I. Misra,     S. Chintala,     L. Pinto, On bringing robots home (2023). arXiv:2311.16098.\
-[[paper](https://arxiv.org/abs/)]
+[[paper](https://arxiv.org/abs/2311.16098)]
 233. Y. Liu,     Y. Liu,     C. Jiang,     K. Lyu,     W. Wan,     H. Shen,     B. Liang,     Z. Fu,     H. Wang,     L. Yi, Hoi4d: A 4d egocentric dataset for category-level human-object interaction, in: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022, pp. 21013-21022.\
-[[paper]()]
+[[paper](http://openaccess.thecvf.com/content/CVPR2022/html/Liu_HOI4D_A_4D_Egocentric_Dataset_for_Category-Level_Human-Object_Interaction_CVPR_2022_paper.html)]
 234. A. Khazatsky,     K. Pertsch,     S. Nair,     A. Balakrishna,     S. Dasari,     S. Karam-cheti,     S. Nasiriany,     M.     K. Srirama,     L.     Y. Chen,     K. Ellis, et al., Droid: A large-scale in-the-wild robot manipulation dataset, arXiv preprint arXiv:2403.12945 (2024).\
-[[paper](https://arxiv.org/abs/)]
+[[paper](https://arxiv.org/abs/2403.12945)]
 235. E. Rosete-Beas,     O. Mees,     G. Kalweit,     J. Boedecker,     W. Burgard, Latent plans for task agnostic offline reinforcement learning, 2022.\
-[[paper]()]
+[[paper](https://proceedings.mlr.press/v205/rosete-beas23a.html)]
 236. M. Heo,     Y. Lee,     D. Lee,     J.     J. Lim, Furniturebench: Reproducible real-world benchmark for long-horizon complex manipulation, in: Robotics: Science and Systems, 2023.\
-[[paper]()]
+[[paper](https://journals.sagepub.com/doi/abs/10.1177/02783649241304789)]
 237. Z. Fan,     O. Taheri,     D. Tzionas,     M. Kocabas,     M. Kaufmann,     M.     J. Black,     O. Hilliges, Arctic: A dataset for dexterous bimanual hand-object manipulation, in: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2023, pp. 12943-12954.\
-[[paper]()]
-238. S. Dass,     J. Yapeter,     J. Zhang,     J. Zhang,     K. Pertsch,     S. Nikolaidis,     J.     J. Lim, Clvr jaco play dataset (2023). URL https://github.com/clvrai/clvr_jaco_play_dataset
+[[paper](http://openaccess.thecvf.com/content/CVPR2023/html/Fan_ARCTIC_A_Dataset_for_Dexterous_Bimanual_Hand-Object_Manipulation_CVPR_2023_paper.html)]
+238. S. Dass,     J. Yapeter,     J. Zhang,     J. Zhang,     K. Pertsch,     S. Nikolaidis,     J.     J. Lim, Clvr jaco play dataset (2023). \ 
+[[paper](https://github.com/clvrai/clvr_jaco_play_dataset)]
 239. L. Fu,     G. Datta,     H. Huang,     W.     C.-H. Panitch,     J. Drake,     J. Ortiz,     M. Mukadam,     M. Lambeta,     R. Calandra,     K. Goldberg, A touch, vision, and language dataset for multimodal alignment, arXiv preprint arXiv:2402.13232 (2024).\
-[[paper](https://arxiv.org/abs/)]
+[[paper](https://arxiv.org/abs/2402.13232)]
 240. N. Cheng,     C. Guan,     J. Gao,     W. Wang,     Y. Li,     F. Meng,     J. Zhou,     B. Fang,     J. Xu,     W. Han, Touch100k: A large-scale touch-language-vision dataset for touch-centric multimodal representation, arXiv preprint arXiv:2406.03813 (2024).\
-[[paper](https://arxiv.org/abs/)]
+[[paper](https://arxiv.org/abs/2406.03813)]
 241. J. Straub,     T. Whelan,     L. Ma,     Y. Chen,     E. Wijmans,     S. Green,     J.     J. Engel,     R. Mur-Artal,     C. Ren,     S. Verma, et al., The replica dataset: A digital replica of indoor spaces, arXiv preprint arXiv:1906.05797 (2019).\
-[[paper](https://arxiv.org/abs/)]
+[[paper](https://arxiv.org/abs/1906.05797)]
 242. D. Kalashnikov,     A. Irpan,     P. Pastor,     J. Ibarz,     A. Herzog,     E. Jang,     D. Quillen,     E. Holly,     M. Kalakrishnan,     V. Vanhoucke, et al., Qt-opt: Scalable deep reinforcement learning for vision-based robotic manipulation, arXiv preprint arXiv:1806.10293 (2018).\
-[[paper](https://arxiv.org/abs/)]
+[[paper](https://arxiv.org/abs/1806.10293)]
 243. J. Luo,     C. Xu,     X. Geng,     G. Feng,     K. Fang,     L. Tan,     S. Schaal,     S. Levine, Multi-stage cable routing through hierarchical imitation learning, arXiv pre-print (2023).\
 [[paper](https://arxiv.org/abs/2307.08927)]
 244. A. Mandlekar,     J. Booher,     M. Spero,     A. Tung,     A. Gupta,     Y. Zhu,     A. Garg,     S. Savarese,     L. Fei-Fei, Scaling robot supervision to hundreds of hours with roboturk: Robotic manipulation dataset through human reasoning and dexterity, in: 2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), IEEE, 2019, pp. 1048-1055.\
-[[paper]()]
+[[paper](https://ieeexplore.ieee.org/abstract/document/8968114/)]
 245. J. Pari,     N.     M. Shafiullah,     S.     P. Arunachalam,     L. Pinto, The surprising effectiveness of representation learning for visual imitation (2021). arXiv:2112.01511.\
-[[paper](https://arxiv.org/abs/)]
+[[paper](https://arxiv.org/abs/2112.01511)]
 246. D. Shah,     B. Eysenbach,     N. Rhinehart,     S. Levine, Rapid Exploration for Open-World Navigation with Latent Goal Models, in: 5th Annual Conference on Robot Learning, 2021.\
-[[paper]()]
-URL https://openreview.net/forum?id=d_SWJhyKfVw
+[[paper]([https://arxiv.org/abs/2104.05859](https://openreview.net/forum?id=d_SWJhyKfVw))]
 247. Y. Zhu,     A. Joshi,     P. Stone,     Y. Zhu, Viola: Imitation learning for vision-based manipulation with object proposal priors, 6th Annual Conference on Robot Learning (CoRL) (2022).\
-[[paper]()]
-248. L.     Y. Chen,     S. Adebola,     K. Goldberg, Berkeley UR5 demonstration dataset, https://sites.google.com/view/berkeley-ur5/home.\
-[[paper]()]
+[[paper](https://proceedings.mlr.press/v205/zhu23a.html)]
+248. L.     Y. Chen,     S. Adebola,     K. Goldberg, Berkeley UR5 demonstration dataset.\
+[[paper](https://sites.google.com/view/berkeley-ur5/home)]
 249. G. Zhou,     V. Dean,     M.     K. Srirama,     A. Rajeswaran,     J. Pari,     K. Hatch,     A. Jain,     T. Yu,     P. Abbeel,     L. Pinto,     C. Finn,     A. Gupta, Train offline, test online: A real robot learning benchmark, in: 2023 IEEE International Conference on Robotics and Automation (ICRA), 2023.\
-[[paper]()]
+[[paper](https://ieeexplore.ieee.org/abstract/document/10160594/)]
 250. C. Chi,     S. Feng,     Y. Du,     Z. Xu,     E. Cousineau,     B. Burchfiel,     S. Song, Diffusion policy: Visuomotor policy learning via action diffusion, in: Proceedings of Robotics: Science and Systems (RSS), 2023.\
-[[paper]()]
+[[paper](https://journals.sagepub.com/doi/abs/10.1177/02783649241273668)]
 251. M.     A. Lee,     Y. Zhu,     K. Srinivasan,     P. Shah,     S. Savarese,     L. Fei-Fei,     A. Garg,     J. Bohg, Making sense of vision and touch: Self-supervised learning of multimodal representations for contact-rich tasks, in: 2019 IEEE International Conference on Robotics and Automation (ICRA), 2019.\
 [[paper](https://arxiv.org/abs/1810.10191)]
 252. S. Haldar,     V. Mathur,     D. Yarats,     L. Pinto, Watch and match: Supercharging imitation with regularized optimal transport, in: Conference on Robot Learning, PMLR, 2023, pp. 32-43.\
-[[paper]()]
+[[paper](https://proceedings.mlr.press/v205/haldar23a.html)]
 253. S. Belkhale,     Y. Cui,     D. Sadigh, Hydra: Hybrid robot actions for imitation learning, arxiv (2023).\
-[[paper](https://arxiv.org/abs/)]
+[[paper](https://proceedings.mlr.press/v229/belkhale23a.html)]
 254. Y. Zhu,     P. Stone,     Y. Zhu, Bottom-up skill discovery from unsegmented demonstrations for long-horizon robot manipulation, IEEE Robotics and Automation Letters 7 (2) (2022) 4126-4133.\
-[[paper]()]
+[[paper](https://ieeexplore.ieee.org/abstract/document/9695333/)]
 255. Z.     J. Cui,     Y. Wang,     N.     M.     M. Shafiullah,     L. Pinto, From play to policy: Conditional behavior generation from uncurated robot data, arXiv preprint arXiv:2210.10047 (2022).\
-[[paper](https://arxiv.org/abs/)]
+[[paper](https://arxiv.org/abs2210.10047/)]
 256. R. Mendonca,     S. Bahl,     D. Pathak, Structured world models from human videos, 2023.\
-[[paper]()]
+[[paper](https://arxiv.org/abs/2308.10901)]
 257. Y. Feng,     N. Hansen,     Z. Xiong,     C. Rajagopalan,     X. Wang, Finetuning offline world models in the real world, arXiv preprint arXiv:2310.16029 (2023).\
-[[paper](https://arxiv.org/abs/)]
+[[paper](https://arxiv.org/abs/2310.16029)]
 258. S. Nasiriany,     T. Gao,     A. Mandlekar,     Y. Zhu, Learning and retrieval from prior data for skill-based imitation learning, in: Conference on Robot Learning (CoRL), 2022.\
-[[paper]()]
+[[paper](https://arxiv.org/abs/2210.11435)]
 259. H. Liu,     S. Nasiriany,     L. Zhang,     Z. Bao,     Y. Zhu, Robot learning on the job: Human-in-the-loop autonomy and learning during deployment, in: Robotics: Science and Systems (RSS), 2023.\
-[[paper]()]
-260. E. Jang,     A. Irpan,     M. Khansari,     D. Kappler,     F. Ebert,     C. Lynch,     S. Levine,     C. Finn, BC-z: Zero-shot task generalization with robotic imitation learning, in: 5th Annual Conference on Robot Learning, 2021. URL https://openreview.net/forum?id=8kbp23tSGYv
+[[paper](https://journals.sagepub.com/doi/abs/10.1177/02783649241273901)]
+260. E. Jang,     A. Irpan,     M. Khansari,     D. Kappler,     F. Ebert,     C. Lynch,     S. Levine,     C. Finn, BC-z: Zero-shot task generalization with robotic imitation learning, in: 5th Annual Conference on Robot Learning, 2021. \
+[[paper](https://openreview.net/forum?id=8kbp23tSGYv)]
 261. G. Salhotra,     I.-C.     A. Liu,     M. Dominguez-Kuhne,     G.     S. Sukhatme, Learning deformable object manipulation from expert demonstrations, IEEE Robotics and Automation Letters 7 (4) (2022) 8775-8782. doi: 10.1109/LRA.2022.3187843.\
-[[paper]()]
+[[paper](https://ieeexplore.ieee.org/abstract/document/9813374/)]
 262. J. Oh,     N. Kanazawa,     K. Kawaharazuka, X-embodiment u-tokyo pr2 datasets (2023).\
-[[paper]()]
+[[paper](https://github.com/ojh6404/rlds_dataset_builder)]
 URL https://github.com/ojh6404/rlds_dataset_builder
 263. Y. Tang,     W. Yu,     J. Tan,     H. Zen,     A. Faust,     T. Harada, Saytap: Language to quadrupedal locomotionhttps://saytap.github.io (2023). arXiv:arXiv:2306.07580.\
-[[paper](https://arxiv.org/abs/)]
-URL https://saytap.github.io
+[[paper](https://saytap.github.io)]
 264. T. Matsushima,     H. Furuta,     Y. Iwasawa,     Y. Matsuo, Weblab xarm dataset (2023).\
-[[paper]()]
+[[paper](https://www.tensorflow.org/datasets/catalog/utokyo_xarm_pick_and_place_converted_externally_to_rlds)]
 265. S. Dasari,     F. Ebert,     S. Tian,     S. Nair,     B. Bucher,     K. Schmeckpeper,     S. Singh,     S. Levine,     C. Finn, Robonet: Large-scale multi-robot learning, in: CoRL 2019: Volume 100 Proceedings of Machine Learning Research, 2019. arXiv:1910.11215.\
-[[paper](https://arxiv.org/abs/)]
+[[paper](https://arxiv.org/abs/1910.11215)]
 266. I. Radosavovic,     T. Xiao,     S. James,     P. Abbeel,     J. Malik,     T. Darrell, Real-world robot learning with masked visual pre-training, in: CoRL, 2022.\
-[[paper]()]
+[[paper](https://proceedings.mlr.press/v205/radosavovic23a.html)]
 267. I. Radosavovic,     B. Shi,     L. Fu,     K. Goldberg,     T. Darrell,     J. Malik, Robot learning with sensorimotor pre-training, arXiv:2306.10007 (2023).\
-[[paper](https://arxiv.org/abs/)]
+[[paper](https://arxiv.org/abs/2306.10007)]
 268. M. Kim,     J. Han,     J. Kim,     B. Kim, Pre-and post-contact policy decomposition for non-prehensile manipulation with zero-shot sim-to-real transfer, in: 2023 IEEE/RSJ Ineternational Conference on Intelligent Robots and Systems (IROS), IEEE, 2023, pp. 10644-10651.\
-[[paper]()]
+[[paper](https://ieeexplore.ieee.org/abstract/document/10341657/)]
 269. B. Burgess-Limerick,     C. Lehnert,     J. Leitner,     P. Corke, Dgbench: An open-source, reproducible benchmark for dynamic grasping, in: 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), IEEE, 2022, pp. 3218-3224.\
-[[paper]()]
+[[paper](https://ieeexplore.ieee.org/abstract/document/9981670/)]
 270. A. Gupta,     S. Tian,     Y. Zhang,     J. Wu,     R. Martín-Martín,     L. Fei-Fei, Maskvit: Masked visual pre-training for video prediction, in: International Conference on Learning Representations, 2022.\
-[[paper]()]
+[[paper](https://arxiv.org/abs/2206.11894)]
 271. T. Osa, Motion planning by learning the solution manifold in trajectory optimization, The International Journal of Robotics Research 41 (3) (2022) 291-311.\
-[[paper]()]
+[[paper](https://journals.sagepub.com/doi/abs/10.1177/02783649211044405)]
 272. A. Padalkar,     G. Quere,     F. Steinmetz,     A. Raffin,     M. Nieuwenhuisen,     J. Silvério,     F. Stulp, Guiding reinforcement learning with shared control templates, in: 40th IEEE International Conference on Robotics and Automation, ICRA 2023, IEEE, 2023.\
-[[paper]()]
+[[paper](https://ieeexplore.ieee.org/abstract/document/10161058/)]
 273. A. Padalkar,     G. Quere,     A. Raffin,     J. Silvério,     F. Stulp, A guided reinforcement learning approach using shared control templates for learning manipulation skills in the real world, Research square preprint rs- 3289569/v1 (2023).\
-[[paper]()]
+[[paper](https://www.researchsquare.com/article/rs-3289569/latest)]
 274. J. Vogel,     A. Hagengruber,     M. Iskandar,     G. Quere,     U. Leipscher,     S. Bus-tamante,     A. Dietrich,     H. Hoeppner,     D. Leidner,     A. Albu-Schäffer, Edan - an emg-controlled daily assistant to help people with physical disabilities, in: 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020.\
-[[paper]()]
+[[paper](https://ieeexplore.ieee.org/abstract/document/9341156/)]
 275. G. Quere,     A. Hagengruber,     M. Iskandar,     S. Bustamante,     D. Leidner,     F. Stulp,     J. Vogel, Shared Control Templates for Assistive Robotics, in: 2020 IEEE International Conference on Robotics and Automation (ICRA), Paris, France, 2020,     p. 7.\
-[[paper]()]
+[[paper](https://ieeexplore.ieee.org/abstract/document/9197041/)]
 276. Y. Zhou,     S. Sonawani,     M. Phielipp,     S. Stepputtis,     H. Amor, Modularity through attention: Efficient training and transfer of language-conditioned policies for robot manipulation, in: Conference on Robot Learning, PMLR, 2023, pp. 1684-1695.\
-[[paper]()]
+[[paper](https://arxiv.org/abs/2212.04573)]
 277. Y. Zhou,     S. Sonawani,     M. Phielipp,     H. Ben Amor,     S. Stepputtis, Learning modular language-conditioned robot policies through attention, Autonomous Robots (2023) 1-21.\
-[[paper]()]
+[[paper](https://link.springer.com/article/10.1007/s10514-023-10129-1)]
 278. H. Shi,     H. Xu,     S. Clarke,     Y. Li,     J. Wu, Robocook: Long-horizon elasto-plastic object manipulation with diverse tools, arXiv preprint arXiv:2306.14447 (2023).\
-[[paper](https://arxiv.org/abs/)]
+[[paper](https://arxiv.org/abs/2306.14447)]
 279. G. Schiavi,     P. Wulkop,     G. Rizzi,     L. Ott,     R. Siegwart,     J.     J. Chung, Learning agent-aware affordances for closed-loop interaction with articulated objects, in: 2023 IEEE International Conference on Robotics and Automation (ICRA), IEEE, 2023, pp. 5916-5922.\
-[[paper]()]
+[[paper](https://ieeexplore.ieee.org/abstract/document/10160747/)]
 280. S. Saxena,     M. Sharma,     O. Kroemer, Multi-resolution sensing for real-time control with vision-language models, in: 7th Annual Conference on Robot Learning, 2023.\
-[[paper]()]
-URL https://openreview.net/forum?id=WuBv9-IGDUA
-281. N.     S. Federico Ceola, Krishan Rana, Lhmanip: A dataset for long horizon manipulation tasks. (2023).\
-[[paper]()]
+[[paper](https://openreview.net/forum?id=WuBv9-IGDUA)]
+281. N.     S. Federico Ceola, Krishan Rana, LHManip: A Dataset for Long-Horizon Language-Grounded Manipulation Tasks in Cluttered Tabletop Environments. (2023).\
+[[paper](https://arxiv.org/abs/2312.12036)]
 282. S. Guist,     J. Schneider,     H. Ma,     V. Berenz,     J. Martus,     F. Gr"uninger,     M. M"uhlebach,     J. Fiene,     B. Sch"olkopf,     D. B"uchler, A robust open-source tendon-driven robot arm for learning control of dynamic motions, arXiv preprint arXiv:2307.02654 (2023).\
-[[paper](https://arxiv.org/abs/)]
+[[paper](https://arxiv.org/abs/2307.02654)]
 283. Y. Wang,     M. Zhang,     Z. Li,     K.     R. Driggs-Campbell,     J. Wu,     L. Fei-Fei,     Y. Li, D3 fields: Dynamic 3d descriptor fields for zero-shot generalizable robotic manipulation, in: ICRA 2024 Workshop on 3D Visual Representations for Robot Manipulation, 2023.\
-[[paper]()]
+[[paper](https://openreview.net/forum?id=iB3OtN6AyX)]
 284. X. Zhu,     R. Tian,     C. Xu,     M. Ding,     W. Zhan,     M. Tomizuka, Fanuc manipulation: A dataset for learning-based manipulation with fanuc mate 200id robot (2023).\
-[[paper]()]
+[[paper](https://sites.google.com/berkeley.edu/fanuc-manipulation)]
 285. A. Sawhney,     S. Lee,     K. Zhang,     M. Veloso,     O. Kroemer, Playing with food: Learning food item representations through interactive exploration, in: Experimental Robotics: The 17th International Symposium, Springer, 2021, pp. 309-322.\
-[[paper]()]
+[[paper](https://link.springer.com/chapter/10.1007/978-3-030-71151-1_28)]
 286. L. Chen,     S. Bahl,     D. Pathak, Playfusion: Skill acquisition via diffusion from language-annotated play, in: CoRL, 2023.\
-[[paper]()]
+[[paper](https://proceedings.mlr.press/v229/chen23c.html)]
 287. S. Bahl,     R. Mendonca,     L. Chen,     U. Jain,     D. Pathak, Affordances from human videos as a versatile representation for robotics, in: CVPR, 2023.\
-[[paper]()]
+[[paper](http://openaccess.thecvf.com/content/CVPR2023/html/Bahl_Affordances_From_Human_Videos_as_a_Versatile_Representation_for_Robotics_CVPR_2023_paper.html)]
 288. G. Kahn,     A. Villaflor,     B. Ding,     P. Abbeel,     S. Levine, Self-supervised deep reinforcement learning with generalized computation graphs for robot navigation, in: 2018 IEEE international conference on robotics and automation (ICRA), IEEE, 2018, pp. 5129-5136.\
-[[paper]()]
+[[paper](https://ieeexplore.ieee.org/abstract/document/8460655/)]
 289. N. Hirose,     D. Shah,     A. Sridhar,     S. Levine, Sacson: Scalable autonomous data collection for social navigation, arXiv preprint arXiv:2306.01874 (2023).\
-[[paper](https://arxiv.org/abs/)]
+[[paper](https://arxiv.org/abs/2306.01874)]
 290. T. Zhao,     V. Kumar,     S. Levine,     C. Finn, Learning fine-grained bimanual manipulation with low-cost hardware, RSS abs/2304.13705 (2023). \
 [[paper](https://arxiv.org/abs/2304.13705)]
-291. P. Mitrano,     D. Berenson, Conq hose manipulation dataset, v1.15.0, https://sites.google.com/view/conq-hose-manipulation-dataset (2024).\
-[[paper]()]
+291. P. Mitrano,     D. Berenson, Conq hose manipulation dataset, v1.15.0,  (2024).\
+[[paper](https://sites.google.com/view/conq-hose-manipulation-dataset)]
 292. J. Luo,     C. Xu,     F. Liu,     L. Tan,     Z. Lin,     J. Wu,     P. Abbeel,     S. Levine, Fmb: a functional manipulation benchmark for generalizable robotic learning, arXiv preprint arXiv:2401.08553 (2024).\
-[[paper](https://arxiv.org/abs/)]
+[[paper](https://arxiv.org/abs/2401.08553)]
 293. C. Wang,     L. Fan,     J. Sun,     R. Zhang,     L. Fei-Fei,     D. Xu,     Y. Zhu,     A. Anandkumar, Mimicplay: Long-horizon imitation learning by watching human play, arXiv preprint arXiv:2302.12422 (2023).\
-[[paper](https://arxiv.org/abs/)]
+[[paper](https://arxiv.org/abs/2302.12422)]
 294. Z. Fu,     T.     Z. Zhao,     C. Finn, Mobile aloha: Learning bimanual mobile manipulation with low-cost whole-body teleoperation, arXiv preprint arXiv:2401.02117, 2024.\
-[[paper](https://arxiv.org/abs/)]
+[[paper](https://arxiv.org/abs/2401.02117)]
 295. H. Bharadhwaj,     J. Vakil,     M. Sharma,     A. Gupta,     S. Tulsiani,     V. Kumar, Roboagent: Generalization and efficiency in robot manipulation via semantic augmentations and action chunking (2023). arXiv:2309. 01918.\
-[[paper](https://arxiv.org/abs/)]
+[[paper](https://arxiv.org/abs/2309. 01918)]
 296. J. Wu,     R. Antonova,     A. Kan,     M. Lepert,     A. Zeng,     S. Song,     J. Bohg,     S. Rusinkiewicz,     T. Funkhouser, Tidybot: Personalized robot assistance with large language models, Autonomous Robots (2023).\
-[[paper]()]
+[[paper](https://link.springer.com/article/10.1007/s10514-023-10139-z)]
 297. Y. Jiang,     A. Gupta,     Z. Zhang,     G. Wang,     Y. Dou,     Y. Chen,     L. Fei-Fei,     A. Anandkumar,     Y. Zhu,     L. Fan, Vima: General robot manipulation with multimodal prompts, in: Fortieth International Conference on Machine Learning, 2023.\
-[[paper]()]
+[[paper](https://authors.library.caltech.edu/records/1bseh-9e548/files/2210.03094.pdf)]
 298. K. Ehsani,     T. Gupta,     R. Hendrix,     J. Salvador,     L. Weihs,     K.-H. Zeng,     K.     P. Singh,     Y. Kim,     W. Han,     A. Herrasti, et al., Spoc: Imitating shortest paths in simulation enables effective navigation and manipulation in the real world, in: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2024, pp. 16238-16250.\
-[[paper]()]
+[[paper](https://arxiv.org/abs/2312.02976)]
 299. G. Thomas,     C.-A. Cheng,     R. Loynd,     F.     V. Frujeri,     V. Vineet,     M. Jalobeanu,     A. Kolobov, Plex: Making the most of the available data for robotic manipulation pretraining, in: CoRL, 2023.\
-[[paper]()]
+[[paper](https://proceedings.mlr.press/v229/thomas23a.html)]
 
 
 
