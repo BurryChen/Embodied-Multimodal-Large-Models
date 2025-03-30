@@ -599,7 +599,7 @@ URL https://github.com/ojh6404/rlds_dataset_builder
 294. Z. Fu,     T.     Z. Zhao,     C. Finn, Mobile aloha: Learning bimanual mobile manipulation with low-cost whole-body teleoperation, arXiv preprint arXiv:2401.02117, 2024.\
 [[paper](https://arxiv.org/abs/2401.02117)]
 295. H. Bharadhwaj,     J. Vakil,     M. Sharma,     A. Gupta,     S. Tulsiani,     V. Kumar, Roboagent: Generalization and efficiency in robot manipulation via semantic augmentations and action chunking (2023). arXiv:2309. 01918.\
-[[paper](https://arxiv.org/abs/2309. 01918)]
+[[paper](https://arxiv.org/abs/2309.01918)]
 296. J. Wu,     R. Antonova,     A. Kan,     M. Lepert,     A. Zeng,     S. Song,     J. Bohg,     S. Rusinkiewicz,     T. Funkhouser, Tidybot: Personalized robot assistance with large language models, Autonomous Robots (2023).\
 [[paper](https://link.springer.com/article/10.1007/s10514-023-10139-z)]
 297. Y. Jiang,     A. Gupta,     Z. Zhang,     G. Wang,     Y. Dou,     Y. Chen,     L. Fei-Fei,     A. Anandkumar,     Y. Zhu,     L. Fan, Vima: General robot manipulation with multimodal prompts, in: Fortieth International Conference on Machine Learning, 2023.\
